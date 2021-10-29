@@ -51,9 +51,10 @@
 "city": "Toronto",
 "mascot": "Raptors",
 "short": "TOR",
-"homeText": "CE1141",
-"homeMain": "FFFFFF",
-"homeSecondary": "000000",
+"homeText": "FFFFFF",
+"homeMain": "000000",
+"homeSecondary": "CE1141
+",
 "awayText": "CE1141",
 "awayMain": "FFFFFF",
 "awaySecondary": "000000",
