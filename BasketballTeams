@@ -51,8 +51,8 @@
 "city": "Toronto",
 "mascot": "Raptors",
 "short": "TOR",
-"homeText": "FFFFFF",
-"homeMain": "CE1141",
+"homeText": "CE1141",
+"homeMain": "FFFFFF",
 "homeSecondary": "000000",
 "awayText": "CE1141",
 "awayMain": "FFFFFF",
@@ -125,10 +125,10 @@
 "short": "ATL",
 "homeText": "FFFFFF",
 "homeMain": "E03A3E",
-"homeSecondary": "C1D32F",
+"homeSecondary": "FDB927",
 "awayText": "E03A3E",
 "awayMain": "FFFFFF",
-"awaySecondary": "C1D32F",
+"awaySecondary": "FDB927",
 "logoURL": "https://dl.dropbox.com/s/yt85ehn6yejf0kf/hawks.png"
 },
 {
