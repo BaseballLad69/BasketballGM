@@ -52,11 +52,11 @@
 "mascot": "Raptors",
 "short": "TOR",
 "homeText": "FFFFFF",
-"homeMain": "000000",
-"homeSecondary": "CE1141",
-"awayText": "CE1141",
+"homeMain": "CE1141",
+"homeSecondary": "000000",
+"awayText": "000000",
 "awayMain": "FFFFFF",
-"awaySecondary": "000000",
+"awaySecondary": "CE1141",
 "logoURL": "https://dl.dropbox.com/s/kjc3yw2ruav0tf4/raptors.png"
 },
 {
@@ -80,7 +80,7 @@
 "homeSecondary": "FFB81C",
 "awayText": "860038",
 "awayMain": "FFFFFF",
-"awaySecondary": "FFB81C",
+"awaySecondary": "002B60",
 "logoURL": "https://dl.dropbox.com/s/j8hx8fb6kaoqu6e/cavaliers.png"
 },
 {
@@ -172,8 +172,8 @@
 "mascot": "Wizards",
 "short": "WAS",
 "homeText": "FFFFFF",
-"homeMain": "002B5C",
-"homeSecondary": "E31837",
+"homeMain": "E31837",
+"homeSecondary": "002B5C",
 "awayText": "002B5C",
 "awayMain": "FFFFFF",
 "awaySecondary": "E31837",
@@ -197,10 +197,10 @@
 "short": "MIN",
 "homeText": "FFFFFF",
 "homeMain": "0C2340",
-"homeSecondary": "236192",
+"homeSecondary": "78BE20",
 "awayText": "0C2340",
 "awayMain": "FFFFFF",
-"awaySecondary": "236192",
+"awaySecondary": "78BE20",
 "logoURL": "https://dl.dropbox.com/s/rwfrtkb5uqtlnnl/timberwolves.png"
 },
 {
@@ -220,8 +220,8 @@
 "mascot": "Trail Blazers",
 "short": "POR",
 "homeText": "FFFFFF",
-"homeMain": "E03A3E",
-"homeSecondary": "000000",
+"homeMain": "000000",
+"homeSecondary": "E03A3E",
 "awayText": "E03A3E",
 "awayMain": "FFFFFF",
 "awaySecondary": "000000",
@@ -236,7 +236,7 @@
 "homeSecondary": "F9A01B",
 "awayText": "002B5C",
 "awayMain": "FFFFFF",
-"awaySecondary": "F9A01B",
+"awaySecondary": "00471B",
 "logoURL": "https://dl.dropbox.com/s/st62bfjr7awa3mb/jazz.png"
 },
 {
@@ -330,9 +330,9 @@
 "homeText": "FFFFFF",
 "homeMain": "5D76A9",
 "homeSecondary": "12173F",
-"awayText": "5D76A9",
+"awayText": "12173F",
 "awayMain": "FFFFFF",
-"awaySecondary": "12173F",
+"awaySecondary": "FBB829",
 "logoURL": "https://dl.dropbox.com/s/l70m376qlhaktj6/grizzlies.png"
 },
 {
