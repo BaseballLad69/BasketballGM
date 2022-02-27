@@ -200,7 +200,7 @@
 "homeSecondary": "78BE20",
 "awayText": "0C2340",
 "awayMain": "FFFFFF",
-"awaySecondary": "78BE20",
+"awaySecondary": "236192",
 "logoURL": "https://dl.dropbox.com/s/rwfrtkb5uqtlnnl/timberwolves.png"
 },
 {
@@ -356,7 +356,7 @@
 "homeSecondary": "C4CED4",
 "awayText": "000000",
 "awayMain": "FFFFFF",
-"awaySecondary": "C4CED4",
+"awaySecondary": "000000",
 "logoURL": "https://dl.dropbox.com/s/49kjddkrblgrtvc/spurs.png"
 }
 ]
