@@ -57,7 +57,7 @@
 "awayText": "000000",
 "awayMain": "FFFFFF",
 "awaySecondary": "CE1141",
-"logoURL": "https://dl.dropbox.com/s/kjc3yw2ruav0tf4/raptors.png"
+"logoURL": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.leadersinsport.com%2Fwp-content%2Fuploads%2F2018%2F07%2Ftoronto-raptors-logo-transparent.png&imgrefurl=https%3A%2F%2Fleadersinsport.com%2Fleaders-sports-awards%2Fthe-winners%2Fattachment%2Ftoronto-raptors-logo-transparent%2F&tbnid=ulxwe0rn1ktXiM&vet=1&docid=7K3yDMqx3g0LHM&w=2400&h=2201&source=sh%2Fx%2Fim"
 },
 {
 "city": "Chicago",
@@ -200,7 +200,7 @@
 "homeSecondary": "78BE20",
 "awayText": "0C2340",
 "awayMain": "FFFFFF",
-"awaySecondary": "78BE20",
+"awaySecondary": "236192",
 "logoURL": "https://dl.dropbox.com/s/rwfrtkb5uqtlnnl/timberwolves.png"
 },
 {
@@ -356,7 +356,7 @@
 "homeSecondary": "C4CED4",
 "awayText": "000000",
 "awayMain": "FFFFFF",
-"awaySecondary": "C4CED4",
+"awaySecondary": "000000",
 "logoURL": "https://dl.dropbox.com/s/49kjddkrblgrtvc/spurs.png"
 }
 ]
