@@ -5,7 +5,7 @@
 "short": "BOS",
 "homeText": "FFFFFF",
 "homeMain": "007A33",
-"homeSecondary": "BA9653",
+"homeSecondary": "000000",
 "awayText": "007A33",
 "awayMain": "FFFFFF",
 "awaySecondary": "007A33",
@@ -80,7 +80,7 @@
 "homeSecondary": "FFB81C",
 "awayText": "860038",
 "awayMain": "FFFFFF",
-"awaySecondary": "002B60",
+"awaySecondary": "FFB81C",
 "logoURL": "https://dl.dropbox.com/s/j8hx8fb6kaoqu6e/cavaliers.png"
 },
 {
@@ -236,7 +236,7 @@
 "homeSecondary": "F9A01B",
 "awayText": "002B5C",
 "awayMain": "FFFFFF",
-"awaySecondary": "00471B",
+"awaySecondary": "F9A01B",
 "logoURL": "https://dl.dropbox.com/s/st62bfjr7awa3mb/jazz.png"
 },
 {
@@ -245,6 +245,7 @@
 "short": "GSW",
 "homeText": "FFFFFF",
 "homeMain": "1D42BA",
+
 "homeSecondary": "FFC72C",
 "awayText": "1D42BA",
 "awayMain": "FFFFFF",
